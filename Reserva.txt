@@ -1,0 +1,10 @@
+<----------------INFORMACION DE RESERVA------------------->
+
+EDGARDO usted ha reservado  2 habitaciones 
+De tipo 1 : Habitacion individual 
+Con servicio adicional 2 : cita reservada en el Spa y un monto adicional de $12.50 a su reserva. 
+TIEMPO DE HOSPEDAJE:
+1 dias.
+FECHA DE LLEGADA
+3/2/2019
+

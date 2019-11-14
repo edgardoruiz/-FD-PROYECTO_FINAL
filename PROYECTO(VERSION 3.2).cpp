@@ -52,25 +52,25 @@ int main(){
             cout<<"Opcion 1: Habitacion individual"<<endl<<endl;
             cout << "<----------INFORMACION DE HABITACION---------->" << endl;
             cout<<"Costo por dia: $95.00"<<endl;
-            cout<<"La habitacion incluye: cama individual, television, armario, baño."<<endl;
+            cout<<"La habitacion incluye: cama individual, television, armario, bano."<<endl;
             }
             else if(habitacion==2){
             cout<<"Opcion 2: Habitacion doble"<<endl<<endl;
             cout << "<----------INFORMACION DE HABITACION---------->" << endl;
             cout<<"Costo por dia: $108.00"<<endl;
-            cout<<"La habitacion incluye: 2 camas, un televisior, armario, baño, mini bar"<<endl;
+            cout<<"La habitacion incluye: 2 camas, un televisior, armario, bano, mini bar"<<endl;
             }
             else if(habitacion==3){
             cout<<"Opcion 3: Suite Presidencial"<<endl<<endl;
             cout << "<----------INFORMACION DE HABITACION---------->" << endl;
             cout<<"Costo por habitacion: $220.00"<<endl;
-            cout<<"La habitacion incluye 3:cama, television, armario, baño, mini bar, penthouse."<<endl;
+            cout<<"La habitacion incluye 3:cama, television, armario, bano, mini bar, penthouse."<<endl;
             }
             else if(habitacion==4){
             cout<<"Opcion 4: Suite VIP"<<endl;
             cout << "<----------INFORMACION DE HABITACION---------->" << endl<<endl;
             cout<<"Costo por dia: $350.00"<<endl;
-            cout<<"La habitacion incluye: Cama grande, television, armario, baño, mini bar, terraza, jacuzzi"<<endl;
+            cout<<"La habitacion incluye: Cama grande, television, armario, bano, mini bar, terraza, jacuzzi"<<endl;
             }
             else{
             cout<<endl;
